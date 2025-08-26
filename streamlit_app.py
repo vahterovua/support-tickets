@@ -11,9 +11,7 @@ st.set_page_config(page_title="интерактивная таблица", page_
 st.title("🎫 интерактивная таблица")
 st.write(
     """
-    This app shows how you can build an internal tool in Streamlit. Here, we are 
-    implementing a support ticket workflow. The user can create a ticket, edit 
-    existing tickets, and view some statistics.
+    интерактивная таблица
     """
 )
 
