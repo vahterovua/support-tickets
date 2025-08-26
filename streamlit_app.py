@@ -8,7 +8,7 @@ import streamlit as st
 
 # Show app title and description.
 st.set_page_config(page_title="интерактивная таблица", page_icon="🎫")
-st.title("🎫 Support tickets")
+st.title("🎫 интерактивная таблица")
 st.write(
     """
     This app shows how you can build an internal tool in Streamlit. Here, we are 
