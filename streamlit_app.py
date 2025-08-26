@@ -7,7 +7,7 @@ import pandas as pd
 import streamlit as st
 
 # Show app title and description.
-st.set_page_config(page_title="Support tickets", page_icon="🎫")
+st.set_page_config(page_title="интерактивная таблица", page_icon="🎫")
 st.title("🎫 Support tickets")
 st.write(
     """
